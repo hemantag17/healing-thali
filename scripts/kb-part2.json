@@ -1,0 +1,366 @@
+    {
+      "id": "phase-4",
+      "label": "Days 31-60: The Second Month (rebuilding stores, balancing hormones)",
+      "navLabel": "Day 31-60",
+      "dayRange": "31-60",
+      "theme": "Rebuild maternal reserves - iron, bone, B12 - and ride the hormonal recalibration",
+      "goals": ["Continue supplements as prescribed", "Recheck haemoglobin around the 6-week visit if advised", "Recognise normal postpartum hair shedding", "Begin gentle core/pelvic-floor work - no crunches", "Mood check"],
+      "scienceNotes": [
+        "Iron stores take 3-6 months to refill; bone mineral diverted to milk is recovered after weaning if calcium+D intake is adequate",
+        "Postpartum thyroiditis affects ~5-10% of mothers - fatigue/palpitations deserve a TSH test [R17]",
+        "Postpartum telogen effluvium: hormone-timed shedding begins months 2-3, peaks 3-4, resolves by 6-12 months in most [R19]",
+        "Omega-3, B12 and vitamin D have observational links with postpartum mood; correcting deficiency is legitimate"
+      ],
+      "eat": ["Same architecture as Phase 3 (it works)", "If formula-feeding/weaned: drop to ~1900-2100 kcal - the +330 kcal is lactation-specific", "Prioritise omega-3, B12, vitamin D", "Hunger is the volume dial"],
+      "mealPattern": [
+        { "occasion": "3 meals + 2 snacks", "suggestion": "Continue Phase 3 structure; adjust volumes to hunger and feeding pattern" }
+      ],
+      "limit": ["caffeine <=200 mg/day while breastfeeding"],
+      "avoid": ["crash diets", "straining", "sit-ups/crunches until diastasis assessed"],
+      "traditionsDecoded": ["Hair falling in clumps is not a nutrient 'deficiency disaster' - it is a hair-cycle shift; check ferritin/TSH if severe"],
+      "redFlags": ["Heavy or restarted bleeding", "Breast lumps or mastitis signs", "Palpitations, heat intolerance, profound fatigue (thyroid screen)", "Low mood >2 weeks", "Any thought of self-harm - immediate help: Tele-MANAS 14416, Kiran 1800-599-0019"]
+    },
+    {
+      "id": "phase-5",
+      "label": "Days 61-90: The Third Month (normalisation & metabolic health)",
+      "navLabel": "Day 61-90",
+      "dayRange": "61-90",
+      "theme": "Return to a normal balanced family diet with three medical errands: glucose check, thyroid check, sane weight trajectory",
+      "goals": ["GDM follow-up OGTT at 4-12 weeks if not done [R18]", "Normalise the plate - mother's plate = family's plate", "Begin structured weight management if BMI high", "Progress to strength work with 12-week clearance"],
+      "scienceNotes": [
+        "GDM carries several-fold lifetime type-2 diabetes risk; sustained thali-style eating plus activity is the strongest lever [R18]",
+        "Safe weight loss while breastfeeding: >=1800 kcal floor, 0.25-0.5 kg/week, protein-forward meals [R13]",
+        "Fascia and uterine remodelling continue for up to a year"
+      ],
+      "eat": ["The family thali done right - ICMR My Plate as everyone's default", "If breastfeeding: continue +330 kcal, DHA, iodised salt, B12"],
+      "mealPattern": [
+        { "occasion": "3 meals + 2 snacks", "suggestion": "Family eating pattern; the mother's diet is no longer a separate cuisine" }
+      ],
+      "limit": ["deficit to >=1800 kcal while breastfeeding", "added sugar"],
+      "avoid": ["aggressive detox/crash regimens", "skipping meals"],
+      "traditionsDecoded": ["The healthiest inheritance is a healthy family plate - not a special 'mother's diet'"],
+      "redFlags": ["Persistent fatigue despite iron (recheck Hb/ferritin/TSH)", "Signs of postpartum depression"]
+    },
+    {
+      "id": "phase-6",
+      "label": "Day 90 and beyond: Long-term recovery and metabolic health",
+      "navLabel": "Day 90+",
+      "dayRange": "90+",
+      "theme": "The diet settles into its permanent, healthy form; recovery continues internally for up to a year",
+      "goals": ["Haemoglobin/ferritin recheck ~6 months if anaemic", "Vitamin D maintenance", "Family-level eating pattern", "150 min/week activity", "Return toward pre-pregnancy weight by 6-12 months"],
+      "scienceNotes": [
+        "Postpartum weight retention beyond ~6-12 months predicts long-term obesity and cardiometabolic risk [R13]",
+        "Interpregnancy planning: folic acid 400 micrograms/day before conception",
+        "One-line summary: protein at every meal, plants and dairy every day, water within reach, walk daily, sleep when the baby sleeps"
+      ],
+      "eat": ["Whole grains, pulses, 400 g+ vegetables+fruit, 30 g nuts/seeds, limited sugar, rotational oils [R2]"],
+      "mealPattern": [
+        { "occasion": "Daily life", "suggestion": "Sleep, meal regularity and 150 min/week activity predict long-term maternal health better than any single food" }
+      ],
+      "limit": ["alcohol", "processed food frequency"],
+      "avoid": ["smoking/tobacco in any form", "return to pre-pregnancy crash habits"],
+      "traditionsDecoded": [],
+      "redFlags": ["New heavy bleeding months later (see doctor)", "Persistent mood symptoms"]
+    }
+  ],
+  "myths": [
+    {
+      "id": "hot-cold-foods",
+      "claim": "Foods are intrinsically 'hot' or 'cold' (garam/thanda taseer) and postpartum women must avoid 'cold' foods like curd, rice and banana",
+      "origin": "Ayurvedic virya (potency) classification - a traditional food-pharmacology system",
+      "science": [
+        "Core temperature is hypothalamus-regulated within a few tenths of a degree regardless of a food's 'potency'",
+        "No controlled study links hot/cold classification to wound healing, infection, joint disease or milk quality",
+        "'Cold' foods are among the best recovery foods: curd (protein, calcium, probiotics), rice (energy), banana (potassium, fibre), buttermilk (hydration)"
+      ],
+      "verdict": "DEBUNKED",
+      "riskLevel": "moderate",
+      "doInstead": ["Keep warm freshly cooked meals (food safety, digestibility, let-down comfort)", "Choose foods by nutrient density, not taseer", "No food needs banning for being 'cold'"],
+      "evidenceRefs": ["R1"]
+    },
+    {
+      "id": "ghee-medicine",
+      "claim": "Ghee by the ladle lubricates joints, heals bones and stitches, fills the void left by the baby",
+      "origin": "Pre-refrigeration era when calories were scarce and ghee was the densest prestige food",
+      "science": [
+        "Ghee is ~64% saturated fat, 9 kcal/g, with zero calcium, protein, vitamin C, zinc or iron - none of the actual healing nutrients",
+        "Bones heal via osteoblasts using protein + calcium + vitamin D + C + zinc; joints are lubricated by synovial fluid, not swallowed fat",
+        "Excess ghee adds 100-200+ kcal per meal beyond need, driving postpartum weight retention and LDL cholesterol",
+        "Healthy fat needs are real (20-30% of calories + DHA) and are met by 4-6 tsp total fat, nuts, seeds and fish"
+      ],
+      "verdict": "DEBUNKED",
+      "riskLevel": "moderate",
+      "doInstead": ["Ghee 1-2 tsp/day as cooking/finishing fat", "Rotate mustard/groundnut/rice-bran oils", "30 g nuts/seeds daily + DHA sources"],
+      "evidenceRefs": ["R1", "R9"]
+    },
+    {
+      "id": "water-restriction",
+      "claim": "Plain water must be restricted after delivery; only boiled ajwain (carom) water is permitted",
+      "origin": "Conflation of unsafe water supplies (genuinely needing boiling) with ajwain's traditional carminative reputation",
+      "science": [
+        "Hydration needs RISE post-C-section: wound recovery, blood volume, constipation/UTI prevention, 750-800 ml/day milk output (87% water)",
+        "Restricting fluids worsens constipation (dangerous with a healing abdomen) and drags milk volume",
+        "Ajwain's thymol is a mild carminative in lab settings; no human trial shows superiority over plain water, and no mechanism reaches 'gas in stitches' or 'cleanses the uterus'"
+      ],
+      "verdict": "DEBUNKED",
+      "riskLevel": "high",
+      "doInstead": ["Boil and cool drinking water if supply is questionable (hygiene, not restriction)", "2.5-3 L fluids daily to thirst, verified by pale-straw urine", "Ajwain/saunf/jeera water counts toward the total as variety"],
+      "evidenceRefs": ["R14"]
+    },
+    {
+      "id": "vegetable-bans",
+      "claim": "Eggplant, potatoes, cauliflower, cabbage and greens cause gas that reaches the baby and hurts the stitches; pigments mark the baby's skin",
+      "origin": "Intuitive-but-wrong model that gut contents travel intact into blood and milk",
+      "science": [
+        "Intestinal gas (hydrogen, methane from colonic bacteria) does not enter breast milk - milk is built in the breast from blood nutrients",
+        "Eggplant anthocyanins are antioxidants; they cannot deposit in a baby's skin",
+        "Raffinose in brassicas may bloat the MOTHER - a comfort issue managed by portions and cooking, not a ban",
+        "Genuine minority issue: some infants react to cow-milk protein in the maternal diet - dairy, not vegetables; paediatrician-guided only"
+      ],
+      "verdict": "DEBUNKED",
+      "riskLevel": "moderate",
+      "doInstead": ["Eat the full vegetable rainbow, cooked to personal comfort", "Adjust portions for your own bloating only"],
+      "evidenceRefs": ["R2"]
+    },
+    {
+      "id": "no-grains-chhathi",
+      "claim": "No grains until the chhathi (sixth-day) ceremony; grains before the ritual harm healing",
+      "origin": "Ritual purity frameworks anchored to ceremonial calendars in eras of high infant mortality",
+      "science": [
+        "Nothing is metabolically special about day 6",
+        "The ban covers days 3-6 - squarely inside the wound's proliferative phase (days 3-21) of maximum energy/protein demand",
+        "Whole grains supply B vitamins and fibre; carbohydrate restriction now is counterproductive, and early-feeding RCT evidence points the opposite way [R7]"
+      ],
+      "verdict": "DEBUNKED",
+      "riskLevel": "moderate",
+      "doInstead": ["Celebrate chhathi WITH a balanced meal including grains, from day 2-3 as tolerated"],
+      "evidenceRefs": ["R7"]
+    },
+    {
+      "id": "paan-calcium",
+      "claim": "Eating paan (betel leaf) provides calcium for bones and teeth after delivery",
+      "origin": "Betel leaf shows calcium per 100 g in food tables; tradition extrapolated it into bone medicine",
+      "science": [
+        "A paan uses a few grams of leaf = roughly 10-20 mg calcium vs a 1000-1200 mg daily need; one glass of milk gives ~300 mg",
+        "Standard paan add-ons are catastrophic: areca nut (supari) and tobacco (zarda) are IARC Group 1 carcinogens [R11]; slaked lime is caustic; nicotine passes into milk"
+      ],
+      "verdict": "DEBUNKED",
+      "riskLevel": "high",
+      "doInstead": ["Calcium from milk, curd, paneer, ragi, til, tofu, small fish with bones", "A paan without supari/tobacco is a cultural choice - flavour, never medicine"],
+      "evidenceRefs": ["R11"]
+    },
+    {
+      "id": "stitch-bursting-foods",
+      "claim": "Eating rice, dal, banana or 'heavy' foods will burst the stitches or cause pus; only moong khichdi for 40 days",
+      "origin": "Mechanical misunderstanding of surgery plus fear",
+      "science": [
+        "The abdomen closes in layers and heals by cellular biology; food is digested into amino acids/glucose/fatty acids in a separate system and never touches the wound",
+        "Pus = bacterial infection; the diet factors that matter are the opposite of the tradition: protein, vitamin C and zinc deficiency delay healing, and high blood sugar impairs immune cells",
+        "Fascia regains ~half its strength by 6 weeks and remodels for a year regardless of food identity",
+        "Do not strain on the toilet - it hurts (and risks piles); it does not burst stitches"
+      ],
+      "verdict": "DEBUNKED",
+      "riskLevel": "moderate",
+      "doInstead": ["Normal protein-rich balanced diet from day 2-3 as tolerated", "Report wound discharge/gap/fever to the doctor immediately"],
+      "evidenceRefs": ["R6", "R8"]
+    },
+    {
+      "id": "curd-cold-myth",
+      "claim": "Curd and buttermilk are 'cold' and cause coughs in mother or baby; avoid after delivery",
+      "origin": "Hot/cold food classification (see Myth #1)",
+      "science": [
+        "Curd and chaas deliver complete protein, calcium, B12 and live cultures that help gut flora recover after the surgical antibiotic course [R20]",
+        "Coughs are viral; no evidence links food 'cooling nature' to respiratory infection",
+        "If lactose intolerant, curd/chaas are usually BETTER tolerated than milk (cultures pre-digest lactose)"
+      ],
+      "verdict": "DEBUNKED",
+      "riskLevel": "low",
+      "doInstead": ["1-2 servings of curd/chaas daily with meals", "Room temperature is fine"]
+    },
+    {
+      "id": "eating-for-two",
+      "claim": "Lactating mothers must eat double; laddoos, panjiri, halwa and full-fat everything by default",
+      "origin": "Scarcity-era logic plus conflation of pregnancy and lactation needs",
+      "science": [
+        "Lactation adds only ~330 kcal/day (months 0-6) per ICMR-NIN 2020; CDC concurs [R1][R13]",
+        "Part of milk's energy cost is paid from pregnancy fat stores - that is why the increment is small",
+        "Overfeeding produces postpartum weight retention, itself a risk marker for later diabetes and heart disease",
+        "One gond laddoo = 150-250 kcal - a tin-a-week habit is the problem, not the food"
+      ],
+      "verdict": "DEBUNKED",
+      "riskLevel": "moderate",
+      "doInstead": ["One extra hearty snack: milk + almonds + fruit", "One small laddoo or 2-3 tbsp panjiri/day if enjoyed", "Hunger and supply cues set the rest"],
+      "evidenceRefs": ["R1", "R13"]
+    },
+    {
+      "id": "galactagogue-myth",
+      "claim": "Without special foods (methi, gond, ajwain water) breast milk will not come",
+      "origin": "Attribution of supply to specific foods rather than to demand",
+      "science": [
+        "Milk production is demand-and-supply: suckling triggers prolactin (production) and oxytocin (let-down) [R10]",
+        "ABM Protocol #9: most galactagogues have insufficient evidence; fenugreek (methi) has modest small-trial support",
+        "What genuinely works in the tradition: warmth/relaxation aid oxytocin let-down, fluids are needed as fluids, rest helps",
+        "The hierarchy: effective frequent removal > total nutrition and hydration > any specific galactagogue food"
+      ],
+      "verdict": "PARTLY TRUE",
+      "riskLevel": "low",
+      "doInstead": ["Feed or pump 8-12x/day", "Methi paratha/sprouts as food; one gond laddoo; ajwain water as variety", "See a lactation consultant before any lactation supplement"],
+      "evidenceRefs": ["R10"]
+    }
+  ],
+  "traditionsWorthKeeping": [
+    { "practice": "Warm, freshly cooked meals", "verdict": "Food safety + digestibility + let-down comfort", "howTo": "Continue daily" },
+    { "practice": "40-day rest period (jaappa)", "verdict": "Rest genuinely aids recovery - WITH daily walking and sunlight", "howTo": "Rest, delegate, walk" },
+    { "practice": "Methi (fenugreek) in food", "verdict": "Modest galactagogue evidence; excellent fibre", "howTo": "Methi paratha/sprouts as food" },
+    { "practice": "Gond laddoo / panjiri", "verdict": "Nuts + seeds + prebiotic gum, but calorie-dense", "howTo": "1 small portion/day" },
+    { "practice": "Ajwain/saunf/jeera water", "verdict": "Safe carminative; counts toward fluids", "howTo": "Optional variety" },
+    { "practice": "Curd, chaas with meals", "verdict": "Probiotics (post-antibiotic gut recovery), protein, calcium", "howTo": "1-2 servings/day" },
+    { "practice": "Haldi doodh at night", "verdict": "Safe and comforting; curcumin has lab anti-inflammatory data with low absorption", "howTo": "Enjoy; expect comfort, not cure" },
+    { "practice": "Early skin-to-skin and feeding on demand", "verdict": "The strongest-evidence intervention in this entire KB", "howTo": "From hour one" }
+  ],
+  "qaPairs": [
+    {
+      "id": "qa-01",
+      "question": "It's been 24 hours since my C-section. When can I eat normal solid food?",
+      "shortAnswer": "Much earlier than tradition says - most mothers move from fluids to a normal soft diet within 24-48 hours, guided by tolerance.",
+      "answer": "ERAS protocols recommend early oral intake after cesarean, and pooled RCT data (~1900 patients) show early feeding speeds bowel recovery without added complications. Practically: clear fluids within hours once awake and permitted, then milk/dal soup, then khichdi or curd-rice once passing gas (usually day 1-2), then soft normal diet by day 2-3. Prolonged liquid-only regimes are outdated. Keep portions small and frequent, with protein (milk, curd, dal, egg) at every step because collagen repair starts within the first 72 hours.",
+      "kbRef": ["Part 2, Phase 1"],
+      "tags": ["phase-1", "post-op", "early feeding", "ERAS"]
+    },
+    {
+      "id": "qa-02",
+      "question": "My family says I must eat only moong-dal khichdi for 40 days after my C-section. Is that necessary?",
+      "shortAnswer": "No - and 40 days of a single dish works against healing.",
+      "answer": "Wound healing needs 70-90 g/day protein, vitamin C, zinc, iron and calcium - a breadth khichdi alone cannot supply, especially during the proliferative phase (days 3-21) and milk-supply establishment. Khichdi is an excellent base (complete cereal-pulse protein): upgrade it with vegetables and 1 tsp ghee, and rotate dal, rajma, paneer, curd, eggs, vegetables, fruits and whole grains. Food cannot burst stitches (Myth #7) - it never reaches the wound intact.",
+      "kbRef": ["Part 2 Phases 2-3", "Myth #7"],
+      "tags": ["khichdi", "food restriction", "healing"]
+    },
+    {
+      "id": "qa-03",
+      "question": "How much ghee should I eat daily? My mother insists ghee heals stitches and lubricates joints.",
+      "shortAnswer": "1-2 teaspoons a day is plenty; the healing claims have zero scientific basis.",
+      "answer": "Ghee is ~64% saturated fat at 9 kcal/g with no calcium, protein, vitamin C, zinc or iron - none of the actual bone/wound nutrients. Joints are lubricated by synovial fluid, not swallowed fat, and no mechanism or trial supports ghee as a wound healer. Excess ghee reliably adds 100-200+ kcal per meal, driving postpartum weight retention and LDL. Total added-fat budget: 20-30 g/day across oils, a little ghee, nuts, seeds and omega-3 foods.",
+      "kbRef": ["Part 1.2.2", "Myth #2"],
+      "tags": ["ghee", "fats", "joints", "myth"]
+    },
+    {
+      "id": "qa-04",
+      "question": "Is curd safe after delivery? I've been told it's a 'cold' food that will give me or my baby a cough.",
+      "shortAnswer": "Yes - curd is one of the best recovery foods; the 'cold food' theory has no physiological basis.",
+      "answer": "No controlled study links hot/cold food classification to body temperature, infection or milk quality - the hypothalamus holds core temperature steady. Curd and chaas deliver complete protein, calcium, B12 and live cultures that help gut flora recover after the surgical antibiotic course (probiotics have trial support against antibiotic-associated diarrhoea). Serve at room temperature if preferred. Coughs are viral, not caused by curd; if lactose causes bloating, curd/chaas are usually better tolerated than milk.",
+      "kbRef": ["Part 1.5", "Myths #1 and #8"],
+      "tags": ["curd", "hot-cold foods", "probiotics"]
+    },
+    {
+      "id": "qa-05",
+      "question": "Am I allowed plain water, or only ajwain water? How much should I drink while breastfeeding?",
+      "shortAnswer": "Plain (boiled-and-cooled if needed) water is essential, not just allowed - aim for 2.5-3 litres of total fluids daily.",
+      "answer": "Hydration needs rise after surgery: wound recovery, blood volume, constipation/UTI prevention and ~750-800 ml/day of milk (87% water) all depend on fluids. The kernel of truth is water hygiene: boil and cool if the supply is questionable. Ajwain/saunf/jeera waters are safe, pleasant carminatives that count toward the 2.5-3 L, but no trial shows superiority over plain water and no mechanism 'cleanses the uterus'. Drink to thirst; verify pale-straw urine; keep a bottle at every feed.",
+      "kbRef": ["Part 1.4", "Myth #3"],
+      "tags": ["water", "hydration", "ajwain", "myth"]
+    },
+    {
+      "id": "qa-06",
+      "question": "It's day 5 and I'm constipated and scared to strain. What do I do?",
+      "shortAnswer": "Four-part toolkit - fluids, fibre, movement, isabgol - and don't fear the stitches: straining hurts but does not burst them.",
+      "answer": "Post-C-section constipation is expected (pain medication, iron supplements, reduced mobility, surgical bowel slowdown). Use the full kit: 2.5-3 L fluids; 30 g+ fibre from whole grains, dal, vegetables, fruits; walk daily as comfort allows; isabgol (psyllium) 1-2 tsp in water at night if stool is hard. Never sit and strain - it stresses the wound painfully and invites piles. No bowel movement at all by day 3-4, or bloating with vomiting and a distending abdomen: contact your doctor promptly.",
+      "kbRef": ["Part 1.2.3", "Part 2 Phases 1-2"],
+      "tags": ["constipation", "isabgol", "fibre", "phase-1"]
+    },
+    {
+      "id": "qa-07",
+      "question": "I'm vegetarian. How do I meet protein, B12 and omega-3 needs for healing and breastfeeding?",
+      "shortAnswer": "70-90 g protein/day is achievable from an upgraded Indian vegetarian plate, plus three supplement corrections: B12, algae DHA, and vitamin D if deficient.",
+      "answer": "Combine cereals with pulses at every meal (dal-rice, khichdi, dal-roti, idli-sambar) for complete protein. Anchor meals with paneer (18 g/100 g), soy chunks (13 g per 25 g dry), curd, milk, besan chilla, nuts and sprouts - the Part 1 example day reaches ~73 g. Add a vitamin-C fruit or lemon with dal meals to double non-haem iron absorption; keep chai 1-2 h away from those meals. B12 supplement as per doctor (your baby's B12 depends on you); algae-oil DHA 200-300 mg/day is the reliable vegetarian source.",
+      "kbRef": ["Part 1.2.1, 1.3, 1.6"],
+      "tags": ["vegetarian", "protein", "B12", "DHA"]
+    },
+    {
+      "id": "qa-08",
+      "question": "Everyone says I'm 'eating for two' now. How many extra calories do I actually need while breastfeeding?",
+      "shortAnswer": "About 330 extra kcal/day - one hearty snack, not a second thali.",
+      "answer": "ICMR-NIN 2020 sets the lactation increment at +330 kcal/day for months 0-6 (CDC concurs at +330-400) because pregnancy fat stores fund part of milk's energy cost. Practical target: ~2,100-2,300 kcal/day for a typical 55-60 kg sedentary mother. A sensible extra snack: milk + almonds + a guava, or a chilla with curd. Ghee-laden seconds and daily laddoo tins overshoot need, and postpartum weight retention is a genuine cardiometabolic risk. Not breastfeeding: return to ~1,900-2,100 kcal.",
+      "kbRef": ["Part 1.1", "Myth #9"],
+      "tags": ["calories", "eating for two", "weight"]
+    },
+    {
+      "id": "qa-09",
+      "question": "Will eating rice, dal or banana burst my stitches or cause pus?",
+      "shortAnswer": "No - it is mechanically impossible, and avoiding these foods actually harms healing.",
+      "answer": "The abdomen closes in layers and food never reaches the wound intact - it is digested into amino acids, glucose and fatty acids in the gut. Nothing you swallow pushes on sutures. Pus means bacterial infection, and the genuine diet factors are the opposite of the tradition: protein, vitamin C and zinc deficiency delay healing; high blood sugar impairs immune cells. The real anti-pus strategy: protein-rich balanced meals with minimal refined sugar. Don't strain on the toilet; report wound discharge, gap or fever to your doctor immediately.",
+      "kbRef": ["Part 2 Phase 1", "Myth #7"],
+      "tags": ["stitches", "wound", "pus", "myth"]
+    },
+    {
+      "id": "qa-10",
+      "question": "My mother-in-law won't let me eat aloo, gobi or baingan for six weeks - she says the gas will hurt my stitches and the baby. What does science say?",
+      "shortAnswer": "Intestinal gas cannot pass into breast milk or into your wound - eat all vegetables, cooked to your comfort.",
+      "answer": "Gas from cauliflower or potatoes is made by colonic bacteria; hydrogen and methane do not cross into blood or milk - milk is built in the breast from blood nutrients. Eggplant pigments (anthocyanins) are antioxidants and cannot deposit in a baby's skin. If these vegetables bloat YOU, manage with portion size and thorough cooking - a comfort adjustment, not a ban. Deleting vegetable groups removes fibre, potassium, folate and vitamin K exactly when recovery needs them. One genuine sensitivity: a small minority of babies react to cow-milk protein - dairy, not vegetables, and paediatrician-guided.",
+      "kbRef": ["Part 2 Phase 3", "Myth #4"],
+      "tags": ["vegetables", "gas", "baby colic", "myth"]
+    },
+    {
+      "id": "qa-11",
+      "question": "Is eating paan a good source of calcium after delivery?",
+      "shortAnswer": "No - it supplies trivial calcium and, in its usual forms, proven carcinogens.",
+      "answer": "A paan uses a few grams of betel leaf = roughly 10-20 mg calcium against a 1,000-1,200 mg daily need; one glass of milk gives ~300 mg. Worse: standard paan add-ons - areca nut (supari) and tobacco (zarda) - are IARC Group 1 carcinogens (the same evidence class as tobacco smoking), and slaked lime is caustic; nicotine from tobacco paan passes into breast milk. Meet calcium with milk, curd, paneer, ragi, til, tofu and small fish with bones. A plain betel leaf occasionally is a cultural choice - flavour, never medicine.",
+      "kbRef": ["Part 1.3", "Myth #6"],
+      "tags": ["paan", "calcium", "carcinogen", "myth"]
+    },
+    {
+      "id": "qa-12",
+      "question": "Which fish give me DHA, which should I limit, and what if I'm vegetarian?",
+      "shortAnswer": "Favour bangda (mackerel), sardines and hilsa 2-3 times a week; limit surmai and tuna; vegetarians: algae-oil DHA 200-300 mg/day.",
+      "answer": "Breast-milk DHA rises directly with your intake; 200-300 mg/day supports infant brain and retinal development. Low-mercury DHA-rich choices: Indian mackerel (bangda), sardines, hilsa; rohu and katla are safe but leaner. Avoid shark and swordfish; keep surmai and tuna occasional - larger fish accumulate methylmercury, which the breastfed infant's developing brain is sensitive to. Vegetarians: flax/chia/walnut ALA converts to DHA at only ~5-10% even in women - algae-oil DHA is the direct, reliable source.",
+      "kbRef": ["Part 1.2.2, 1.3"],
+      "tags": ["fish", "DHA", "mercury", "vegetarian"]
+    },
+    {
+      "id": "qa-13",
+      "question": "Can I drink chai or coffee while breastfeeding?",
+      "shortAnswer": "Yes - up to about 200 mg caffeine/day: roughly one cup of coffee or two cups of chai.",
+      "answer": "Caffeine transfers into milk at ~1% of your dose and newborns clear it slowly, hence the 200 mg/day cap. A single-bag chai runs 30-50 mg; instant coffee 60-80 mg; strong filter coffee can exceed 100 mg. Watch the baby, not just the calculator: unusual irritability or poor naps in a young infant suggests trimming back or shifting your cup to just after a feed. Two extra tips: keep chai 1-2 h away from iron-rich meals and iron tablets (tannins can cut non-haem iron absorption by a third to more than half), and prefer milk-added chai for the calcium. Avoid alcohol while breastfeeding.",
+      "kbRef": ["Part 1.3, 1.4"],
+      "tags": ["caffeine", "chai", "coffee", "breastfeeding"]
+    },
+    {
+      "id": "qa-14",
+      "question": "My hair is falling out in clumps two months after my C-section. Is something wrong with my diet?",
+      "shortAnswer": "This is postpartum telogen effluvium - a normal, hormone-timed hair-cycle shift that diet did not cause and cannot fully stop.",
+      "answer": "Pregnancy hormones hold hairs in the growth phase; after delivery they synchronously shed, typically starting months 2-3, peaking 3-4, and resolving within 6-12 months for most mothers. It looks dramatic and is self-limiting. Nutrition supports regrowth - adequate protein (hair is keratin), iron, zinc and vitamin D - but no superfood stops the shedding phase. If shedding is severe, patchy, or paired with fatigue, palpitations or weight change: ask for haemoglobin/ferritin and TSH, because iron deficiency and postpartum thyroiditis (~5-10% of mothers) need medical treatment, not hair oils.",
+      "kbRef": ["Part 2 Phase 4"],
+      "tags": ["hair loss", "telogen effluvium", "thyroid"]
+    },
+    {
+      "id": "qa-15",
+      "question": "I want to lose the pregnancy weight. Can I diet now, at two months postpartum, while breastfeeding?",
+      "shortAnswer": "Yes, gently: 0.25-0.5 kg/week with an ~1,800 kcal floor once feeding is established.",
+      "answer": "Studies in well-nourished breastfeeding mothers (Dewey and colleagues) show gradual loss up to ~0.5 kg/week does not reduce milk volume; crash dieting can. The sustainable method: protein at every meal (satiety and muscle protection), half the plate vegetables, keep whole grains and dal, and trim discretionary calories - sugary chai, sweets, fried snacks, the second serving of ghee. Breastfeeding itself burns ~500 kcal/day. Build walking toward 30-45 min; add twice-weekly strength work after the 12-week checkup. If you had gestational diabetes, pair this with the 4-12-week OGTT your doctor ordered - the same pattern is your strongest diabetes prevention.",
+      "kbRef": ["Part 1.1", "Part 2 Phases 4-5"],
+      "tags": ["weight loss", "breastfeeding", "GDM"]
+    }
+  ],
+  "references": [
+    { "id": "R1", "citation": "ICMR-NIN (2020). Nutrient Requirements for Indians / Recommended Dietary Allowances. National Institute of Nutrition, Hyderabad." },
+    { "id": "R2", "citation": "ICMR-NIN. Dietary Guidelines for Indians (2024) and My Plate for the Day." },
+    { "id": "R3", "citation": "Longvah T. et al. (2017). Indian Food Composition Tables (IFCT), NIN, ICMR." },
+    { "id": "R4", "citation": "WHO (2022). WHO Recommendations on Maternal and Newborn Care for a Positive Postnatal Experience." },
+    { "id": "R5", "citation": "WHO (2016). Guideline: Daily Iron Supplementation in Postpartum Women. Oral iron +/- folic acid for 6-12 weeks where anaemia is a public health problem." },
+    { "id": "R6", "citation": "ERAS Society. Guidelines for perioperative/postoperative care in cesarean delivery (World J Surg 2018; update Sultan et al., AJOG 2025). Early oral intake, early ambulation, gum chewing." },
+    { "id": "R7", "citation": "Meta-analyses of randomised trials of early feeding after cesarean under regional anaesthesia (pooled n ~ 1900): faster bowel recovery, no increase in complications; gum-chewing meta-analyses shorten time to first flatus/stool." },
+    { "id": "R8", "citation": "ESPEN Guidelines on Nutrition in Surgery: ~1.2-1.5 g/kg/day protein around surgery and healing; malnutrition delays wound healing." },
+    { "id": "R9", "citation": "EFSA (2010) / ISSFAL: DHA 200 mg/day for lactating women; breast-milk DHA reflects maternal intake." },
+    { "id": "R10", "citation": "Academy of Breastfeeding Medicine, Clinical Protocol #9: Use of Galactogogues." },
+    { "id": "R11", "citation": "IARC Monographs Vol. 85 (2004): Betel quid and areca-nut chewing - Group 1 carcinogens (carcinogenic to humans)." },
+    { "id": "R12", "citation": "IIPS & ICF (2021). NFHS-5 (2019-21) India report: anaemia in pregnant women 52.2%; C-section births ~21.5%." },
+    { "id": "R13", "citation": "CDC/ACOG maternal nutrition during lactation: +330-400 kcal; caffeine <=200 mg/day; avoid alcohol; gradual loss 0.25-0.5 kg/week with ~1800 kcal floor (consistent with Dewey et al. milk-volume studies)." },
+    { "id": "R14", "citation": "IOM/NASEM Dietary Reference Intakes: total water AI ~3.8 L/day lactating (~2.5-3 L as beverages); choline AI 550 mg/day lactation." },
+    { "id": "R15", "citation": "FDA/EPA Advice About Eating Fish: 2-3 servings/week low-mercury fish; avoid shark, swordfish, king mackerel, tilefish." },
+    { "id": "R16", "citation": "WHO/UNICEF/ICCIDD: iodine ~250 micrograms/day in pregnancy and lactation; universal salt iodisation." },
+    { "id": "R17", "citation": "Postpartum thyroiditis epidemiology: ~5-10% of postpartum women, first year postpartum." },
+    { "id": "R18", "citation": "ADA/ACOG: after gestational diabetes, 75-g OGTT at 4-12 weeks postpartum and lifelong periodic screening; several-fold lifetime type-2 diabetes risk." },
+    { "id": "R19", "citation": "Postpartum telogen effluvium literature: onset ~2-3 months, peak ~3-4 months, resolution by 6-12 months in most women." },
+    { "id": "R20", "citation": "Cochrane reviews: probiotics reduce antibiotic-associated diarrhoea (basis for curd/chaas after the surgical antibiotic course)." },
+    { "id": "R21", "citation": "MoHFW India: Tele-MANAS 14416 (24x7); Kiran 1800-599-0019; 108 ambulance." }
+  ]
+}

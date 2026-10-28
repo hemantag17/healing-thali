@@ -1,0 +1,296 @@
+{
+  "meta": {
+    "title": "Postpartum Diet & Recovery Knowledge Base - C-Section (Indian Context)",
+    "version": "1.0",
+    "lastReviewed": "2026-10-28",
+    "language": "en-IN",
+    "scope": "Uncomplicated Cesarean section recovery in an Indian mother, with or without lactation. Complications (PPH, infection, GDM, pre-eclampsia) require individualised medical care that overrides this KB.",
+    "disclaimer": "Educational only. Does not replace the treating obstetrician, physician or registered dietitian. Emergency in India: 108 ambulance. Mental health: Tele-MANAS 14416, Kiran 1800-599-0019."
+  },
+  "nutritionalFramework": {
+    "energy": {
+      "baselineSedentaryKcal": 1875,
+      "lactationIncrementKcal": 330,
+      "practicalTargetKcal": "2100-2300 kcal/day for a typical 55-60 kg breastfeeding mother; 1900-2100 if not breastfeeding",
+      "notes": [
+        "ICMR-NIN 2020: +330 kcal/day for lactation months 0-6 (+400 for months 6-12); CDC concurs at +330-400 kcal [R1][R13]",
+        "Pregnancy fat stores fund part of milk energy cost - hence the modest increment",
+        "Postpartum weight retention is a cardiometabolic risk: safe loss 0.25-0.5 kg/week once feeding established; do not go below ~1800 kcal/day while breastfeeding [R13]",
+        "One gond laddoo = 150-250 kcal: the practical difference between recovery and weight retention"
+      ]
+    },
+    "macronutrients": [
+      {
+        "id": "protein",
+        "name": "Protein",
+        "dailyTarget": "70-90 g/day (1.2-1.5 g/kg) during wound healing + lactation; ICMR-NIN 2020 lactation RDA ~65 g",
+        "whyItMatters": [
+          "Collagen synthesis (glycine, proline, lysine) for the layered uterine and abdominal wound",
+          "Rebuilding red cells after 800-1000 mL surgical blood loss; immune function; uterine involution",
+          "Milk protein secretion ~7-8 g/day; deficiency measurably delays wound healing [R8]"
+        ],
+        "sources": [
+          "Vegetarian: dal/rajma/chhole 1 katori = 6-7 g; paneer 100 g = 18 g; curd 1 katori = 5 g; milk 1 glass = 6-7 g; soy chunks 25 g dry = 13 g; besan chilla 2 = 13 g; nuts 30 g = 6-7 g",
+          "Non-veg: egg 1 = 6-7 g; chicken 100 g cooked = 25 g; fish 100 g = 20 g",
+          "Cereal+pulse combining (dal-rice, khichdi, dal-roti, idli-sambar) completes amino acid profiles"
+        ],
+        "practicalTips": [
+          "20-25 g protein at each of 3 meals + 10-15 g per snack",
+          "Example vegetarian day reaches ~73 g: chilla+curd (18), almonds (6), roti+dal+paneer+chaas (24), roasted chana+milk (13), dal-rice+veg (12)"
+        ]
+      },
+      {
+        "id": "fats",
+        "name": "Fats",
+        "dailyTarget": "20-30% of energy; visible fat 20-30 g/day (4-6 tsp total); DHA 200-300 mg/day",
+        "whyItMatters": [
+          "Breast-milk DHA rises directly with maternal intake - supports infant brain and retina [R9]",
+          "Ghee contains no calcium, protein, vitamin C or zinc: zero bone/wound-healing properties; excess adds weight retention and LDL [see Myth #2]",
+          "Trans fats (vanaspati, packaged bakery, some namkeen) impair lipid profiles and wound microcirculation"
+        ],
+        "sources": [
+          "DHA: bangda (mackerel), sardines, hilsa; algae-oil supplement for vegetarians (flax/chia/walnut ALA converts at only ~5-10%)",
+          "Rotate mustard, groundnut, rice-bran oils; ghee 1-2 tsp/day as taste fat",
+          "Nuts and seeds 30 g/day: almonds, walnuts, til, flaxseed, pumpkin seeds"
+        ],
+        "practicalTips": ["Avoid shark, swordfish; limit surmai and tuna (methylmercury) [R15]", "Deep-fried items occasional, not daily, during recovery"]
+      },
+      {
+        "id": "carbohydrates-fibre",
+        "name": "Carbohydrates & fibre",
+        "dailyTarget": "45-60% of energy as complex carbohydrates; fibre 30 g+ (ICMR-NIN suggests ~40 g/2000 kcal)",
+        "whyItMatters": [
+          "Fibre is the primary defence against post-op constipation (opioids, iron supplements, low mobility, surgical ileus)",
+          "Post-meal glucose spikes impair neutrophil/macrophage function - the real 'pus prevention' is balanced meals, not banning dal or rice",
+          "Ragi ~344 mg calcium/100 g - among the highest-calcium plant foods in the Indian diet [R3]"
+        ],
+        "sources": [
+          "Whole wheat phulka, dalia, oats, ragi, jowar, bajra, brown rice, pulses, vegetables, whole fruits",
+          "Isabgol (psyllium) 1-2 tsp at night if stool is hard - safe, evidence-based, food-grade"
+        ],
+        "practicalTips": ["Added sugar <20-25 g/day; skip sugary 'recovery drinks'", "Maida-only or white-rice-only phases prolong constipation"]
+      }
+    ],
+    "micronutrients": [
+      {
+        "id": "iron",
+        "name": "Iron",
+        "dailyTarget": "~21-23 mg/day from food (ICMR-NIN lactation RDA) + supplement as prescribed",
+        "targetSource": "ICMR-NIN 2020 [R1]; WHO 2016 postpartum supplementation [R5]",
+        "whyItMatters": ["Replaces 800-1000 mL surgical blood loss; collagen synthesis is iron-dependent", ">52% of Indian pregnant women are already anaemic at delivery (NFHS-5) [R12]"],
+        "foodSources": ["dal, rajma, soy, til, chana, methi/chaulai, dates+ jaggery (small)", "haem iron: chicken, fish"],
+        "absorptionTips": ["Pair plant iron with vitamin C at the same meal (lemon on dal; guava/amla alongside) - can double absorption", "Keep chai/coffee 1-2 h away from iron meals: tannins can cut absorption by a third to more than half", "Never take calcium and iron tablets together"],
+        "supplementNote": "Continue prescribed iron-folic acid: WHO advises 6-12 weeks postpartum supplementation where anaemia is common [R5]"
+      },
+      {
+        "id": "calcium",
+        "name": "Calcium",
+        "dailyTarget": "1000-1200 mg/day",
+        "targetSource": "ICMR-NIN 2020 [R1]",
+        "whyItMatters": ["Milk draws ~250-300 mg calcium/day; low intake mobilises maternal bone", "Bone mineral is recovered after weaning provided calcium+vitamin D adequacy"],
+        "foodSources": ["ragi (344 mg/100 g), milk, curd, paneer, til/sesame, calcium-set tofu, small fish with bones [R3]"],
+        "absorptionTips": ["Split across meals - the gut absorbs under ~500 mg at a time efficiently", "Take calcium tablet at a different meal from iron"],
+        "supplementNote": "Commonly prescribed postpartum in India (e.g., 500 mg with dinner) - as per doctor"
+      },
+      {
+        "id": "vitamin-c",
+        "name": "Vitamin C",
+        "dailyTarget": "80 mg/day (lactation)",
+        "targetSource": "ICMR-NIN 2020 [R1]",
+        "whyItMatters": ["Collagen cross-linking enzymes (prolyl/lysyl hydroxylase) are vitamin-C dependent - scurvy classically reopens healed wounds", "Doubles non-haem iron absorption when eaten with plant iron"],
+        "foodSources": ["amla (~600 mg/100 g), guava (~200+ mg/100 g), capsicum, citrus, papaya, tomato [R3]"],
+        "absorptionTips": ["Eat some raw or lightly cooked - prolonged boiling degrades vitamin C", "One guava or amla with lunch and dinner covers the target"],
+        "supplementNote": "Food-first; no megadose supplements needed"
+      },
+      {
+        "id": "vitamin-d",
+        "name": "Vitamin D",
+        "dailyTarget": "15 micrograms (600 IU)/day",
+        "targetSource": "ICMR-NIN 2020 [R1]",
+        "whyItMatters": ["Enables calcium absorption; supports immune function", "Deficiency is very common in Indian women (often 40-80% by region) and linked to body pain, cramps and low mood"],
+        "foodSources": ["Sunlight 15-30 min on arms/face mid-morning; fortified milk; eggs; fatty fish"],
+        "absorptionTips": ["Ask for a 25-OH-D level if fatigued or aching"],
+        "supplementNote": "Correction (commonly 60,000 IU/week x 6-8 weeks in India) is effective and cheap but must be doctor-directed"
+      },
+      {
+        "id": "vitamin-b12",
+        "name": "Vitamin B12",
+        "dailyTarget": "~2.2-2.7 micrograms/day",
+        "targetSource": "ICMR-NIN 2020 [R1]",
+        "whyItMatters": ["The breastfed infant's B12 status depends entirely on the mother; deficiency harms infant development and blood formation", "Indian vegetarian mothers are at high risk"],
+        "foodSources": ["Milk, curd, paneer, eggs, fish, chicken"],
+        "absorptionTips": [],
+        "supplementNote": "Vegetarians/vegans should supplement as per doctor"
+      },
+      {
+        "id": "folate",
+        "name": "Folate",
+        "dailyTarget": "~300 micrograms/day (lactation)",
+        "targetSource": "ICMR-NIN [R1]",
+        "whyItMatters": ["Red cell production after blood loss; DNA repair during rapid tissue regeneration; future pregnancy readiness"],
+        "foodSources": ["Green leafy vegetables, dal, rajma, besan, peanuts, wheat germ"],
+        "absorptionTips": ["Boiling leaches folate - prefer steaming or stir-cooking greens"],
+        "supplementNote": "Part of prescribed IFA; 400 micrograms/day pre-conception if planning another pregnancy"
+      },
+      {
+        "id": "zinc",
+        "name": "Zinc",
+        "dailyTarget": "~12 mg/day (lactation)",
+        "targetSource": "ICMR-NIN [R1]",
+        "whyItMatters": ["Wound epithelialisation, collagen maturation, immune competence, taste/appetite"],
+        "foodSources": ["Whole grains, dal, pumpkin seeds, cashew, paneer, chicken, eggs"],
+        "absorptionTips": ["Phytates in unleavened roti limit absorption - fermentation (idli/dosa/curd) and sprouting help"],
+        "supplementNote": "Food-first"
+      },
+      {
+        "id": "dha",
+        "name": "Omega-3 DHA",
+        "dailyTarget": "200-300 mg DHA/day",
+        "targetSource": "EFSA 2010 / ISSFAL [R9]",
+        "whyItMatters": ["Infant brain and retinal development via breast milk; maternal inflammation resolution and mood"],
+        "foodSources": ["bangda (Indian mackerel), sardines, hilsa; rohu/katla leaner; flax/chia/walnut provide ALA with poor conversion (~5-10%)"],
+        "absorptionTips": ["Avoid shark and swordfish; limit surmai and tuna - methylmercury [R15]"],
+        "supplementNote": "Algae-oil DHA 200-300 mg/day is the reliable vegetarian source"
+      },
+      {
+        "id": "iodine",
+        "name": "Iodine",
+        "dailyTarget": "~250 micrograms/day (WHO, lactation)",
+        "targetSource": "WHO/UNICEF/ICCIDD [R16]",
+        "whyItMatters": ["Maternal thyroid function and infant neurodevelopment"],
+        "foodSources": ["Iodised salt (check the packet), dairy, eggs"],
+        "absorptionTips": [],
+        "supplementNote": "Use iodised salt for the family pot - the practical Indian solution"
+      },
+      {
+        "id": "vitamin-a",
+        "name": "Vitamin A",
+        "dailyTarget": "~950 micrograms RAE/day (lactation)",
+        "targetSource": "ICMR-NIN [R1]",
+        "whyItMatters": ["Epithelial repair of wound and uterine lining; infant stores via milk"],
+        "foodSources": ["Papaya, mango, carrot, pumpkin, sweet potato, methi/palak, milk, egg yolk"],
+        "absorptionTips": ["Orange vegetables + one green daily easily meet it"],
+        "supplementNote": "Food-first; avoid excess liver/preformed retinol supplements"
+      },
+      {
+        "id": "choline",
+        "name": "Choline",
+        "dailyTarget": "550 mg/day (lactation)",
+        "targetSource": "US DRI (ICMR sets no value) [R14]",
+        "whyItMatters": ["Depleted rapidly in lactation; infant brain development"],
+        "foodSources": ["Egg yolk (~140 mg/egg - richest common source), milk, soy, groundnut, whole grains"],
+        "absorptionTips": ["One egg a day is the cheapest choline strategy"],
+        "supplementNote": "Strict vegetarians: cover with soy/milk volumes or as advised"
+      },
+      {
+        "id": "magnesium-selenium",
+        "name": "Magnesium & selenium",
+        "dailyTarget": "Via mixed diet (nuts, whole grains, seeds)",
+        "targetSource": "General nutrition consensus",
+        "whyItMatters": ["Cramp prevention, thyroid function, antioxidant defence"],
+        "foodSources": ["Nuts 30 g/day, whole grains, dal, seeds; 1-2 Brazil nuts cover selenium"],
+        "absorptionTips": [],
+        "supplementNote": "Food-first"
+      }
+    ],
+    "hydration": {
+      "dailyTargetMl": "2500-3000 ml total fluids/day while breastfeeding (counting milk, chaas, dal, soup, coconut water)",
+      "countAsFluids": ["water (boiled and cooled if supply is questionable)", "milk, chaas, buttermilk", "dal, soup, coconut water", "jeera-saunf-ajwain water (optional variety)"],
+      "notes": [
+        "Breast milk is 87% water with output 750-800 ml/day; let-down thirst is a normal oxytocin signal - keep water at every feed",
+        "Drink to thirst, verify pale-straw urine; forced over-hydration does not increase milk volume, under-hydration worsens constipation and UTI [R14]",
+        "Caffeine cap 200 mg/day (1-2 cups chai/coffee), kept 1-2 h away from iron meals; no alcohol while breastfeeding [R13]"
+      ]
+    }
+  },
+  "timeline": [
+    {
+      "id": "phase-1",
+      "label": "Days 1-3: Immediate Post-Op",
+      "navLabel": "Day 1-3",
+      "dayRange": "1-3",
+      "theme": "Clear the anaesthesia, restart the gut, begin collagen delivery, get lactation started",
+      "goals": ["Advance diet early (ERAS)", "Manage gas pain and ileus", "Start lactation with demand feeding", "Prevent clots with early ambulation"],
+      "scienceNotes": [
+        "ERAS protocols recommend early oral intake after cesarean; pooled RCT data (~1900 patients) show early feeding speeds bowel recovery without added complications [R6][R7]",
+        "Spinal anaesthesia and opioids slow the bowel; gas collects causing abdominal and shoulder-tip discomfort",
+        "Lactogenesis II arrives 30-72 h postpartum, on average ~1 day later after cesarean [R4]",
+        "Collagen synthesis begins within 24-72 h - amino acids must be delivered, not delayed"
+      ],
+      "eat": [
+        "Step 1 (within hours, once awake/permitted): water sips, coconut water, rice water, clear moong-dal water, clear soup",
+        "Gum chewing: sugar-free 15 min x 3-4/day until first flatus (meta-analyses shorten time to gas/stool) [R6]",
+        "Step 2 (same day/next morning): milk, thin lassi, thick dal soup, weak tea with milk",
+        "Step 3 (once passing gas, day 1-2): khichdi with 1 tsp ghee, dalia, curd-rice, upma, soft scrambled egg",
+        "Step 4 (day 2-3): soft phulka + dal + lauki sabzi, paneer bhurji, steamed fish/chicken, ripe banana/papaya",
+        "Protein at every step; 6-8 small servings daily"
+      ],
+      "mealPattern": [
+        { "occasion": "Every 2-3 hours", "suggestion": "Small serving from the current diet step; warm fluids; fluids within reach" }
+      ],
+      "limit": ["weak tea to 1 small cup, away from iron", "ghee to 1 tsp in khichdi"],
+      "avoid": ["carbonated drinks (more gas)", "deep-fried and ghee-heavy 'first foods'", "laddoos/halwa this week", "very spicy food", "big single meals", "forcing large volumes"],
+      "traditionsDecoded": [
+        "'Only liquids for 3-4 days' - outdated and harmful (delays bowel recovery and protein delivery) [R7]",
+        "'First meal must be ghee halwa to push gas out' - no mechanism; adds nausea only",
+        "'No water day 1' - dangerous: constipation, UTI, poor milk"
+      ],
+      "redFlags": ["No flatus by day 3, or distending painful abdomen with vomiting", "Fever >=38 C/100.4 F", "Wound redness/spreading warmth/discharge", "Bleeding soaking a pad in an hour or egg-size clots", "Calf pain/swelling", "Burning urine or no urine", "Severe headache with vision changes", "Baby feeding poorly or <6 wet diapers/day by day 5"]
+    },
+    {
+      "id": "phase-2",
+      "label": "Days 4-7: Early Healing (first week home)",
+      "navLabel": "Day 4-7",
+      "dayRange": "4-7",
+      "theme": "Collagen is deposited now; establish milk supply; prevent constipation; digest gently",
+      "goals": ["Protein + vitamin C + zinc at peak wound demand (proliferative phase days 3-21)", "Feed or pump 8-12x/day", "Keep stool soft - never strain", "Walk daily"],
+      "scienceNotes": [
+        "Fibroblasts lay collagen at maximum rate days 3-21 - protein, vitamin C, zinc, iron requirements peak for tissue repair [R8]",
+        "Milk supply is governed by demand-and-supply (prolactin/oxytocin), not by special foods [R10]"
+      ],
+      "eat": [
+        "Early morning: warm water; 4-6 soaked almonds + 1-2 walnuts",
+        "Breakfast: methi/paneer paratha (1 tsp ghee) + curd; moong chilla; oats/dalia upma + milk; or eggs + toast",
+        "Mid-morning: guava/papaya/amla (vitamin C pairing) + milk",
+        "Lunch: 2 phulkas or rice + dal + any seasonal sabzi + curd/chaas + salad",
+        "Evening: roasted makhana or chana + fruit; poha with peanuts",
+        "Dinner: khichdi or dal-rice + sabzi + paneer/egg/fish/chicken (soft)",
+        "Bedtime: warm milk (haldi optional)"
+      ],
+      "mealPattern": [
+        { "occasion": "3 small meals + 3 snacks", "suggestion": "Protein anchor at every eating occasion; fruit at least twice a day" }
+      ],
+      "limit": ["sweets to small occasional portions", "caffeine <=200 mg", "fried snacks to occasions"],
+      "avoid": ["alcohol while breastfeeding", "maida-only days", "skipping meals", "straining on the toilet"],
+      "traditionsDecoded": [
+        "One small gond laddoo or 2-3 tbsp panjiri/day is reasonable (nuts + prebiotic gum) - a tin-full is not (each laddoo ~150-250 kcal)",
+        "Ajwain water: safe pleasant carminative - a choice, not a prescription",
+        "Methi in food amounts: modest galactagogue evidence, safe [R10]"
+      ],
+      "redFlags": ["Wound discharge or gap opening", "Fever", "Worsening abdominal pain", "Heavy bleeding", "Leg swelling/pain", "Painful red breast segment with fever", "Baby feeding poorly"]
+    },
+    {
+      "id": "phase-3",
+      "label": "Days 8-30: The First Month (sustainable nutrient density)",
+      "navLabel": "Week 2-4",
+      "dayRange": "8-30",
+      "theme": "Full balanced Indian diet for tissue repair, milk supply and maternal stores",
+      "goals": ["Protein 70-90 g/day", "Run the iron protocol (IFA + vitamin C pairing + tea spacing)", "Full vegetable variety including traditionally banned ones", "Sun + daily walks during confinement", "Sleep in shifts"],
+      "scienceNotes": [
+        "ICMR My Plate for ~2000 kcal: ~270 g cereals, 85 g pulses, 300 g milk products, 350 g vegetables, 150 g fruit, 30 g nuts/seeds, ~25 g visible fat [R2]",
+        "WHO: continue iron-folic acid 6-12 weeks postpartum where anaemia is common [R5]",
+        "Confinement reframed: rest WITH movement and sunlight (immobility raises clot risk and depletes vitamin D)"
+      ],
+      "eat": ["Healing plate rule: half vegetables + fruit, quarter protein, quarter whole grain, dairy on the side, 1-2 tsp cooking fat", "All vegetables (aloo, gobi, baingan included), cooked to comfort", "2 dairy servings + ragi or til preparations", "Fish 2-3x/week or algae DHA if vegetarian", "Egg daily if eggetarian"],
+      "mealPattern": [
+        { "occasion": "3 meals + 2-3 snacks", "suggestion": "Structure of Phase 2 with larger variety and portions to full appetite" }
+      ],
+      "limit": ["added sugar", "fried food frequency"],
+      "avoid": ["crash dieting this month (supply first)", "paan with supari/tobacco", "alcohol"],
+      "traditionsDecoded": [
+        "'Curd is cold, avoid' - curd is protective: probiotics help gut flora recover after the surgical antibiotic course [R20]",
+        "'No grains till chhathi' - already collapsed; end any remaining ban (Myth #5)",
+        "'Extra ghee for the void' - Myth #2"
+      ],
+      "redFlags": ["Any wound concern; fever", "Persistent low mood/tearfulness/anxiety beyond 2 weeks (screen for PPD - Tele-MANAS 14416)"]
+    },
